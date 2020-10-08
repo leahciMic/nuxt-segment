@@ -1,6 +1,6 @@
 {
-  "name": "@dansmaculotte/nuxt-segment",
-  "version": "0.2.11",
+  "name": "@leahcimic/nuxt-segment",
+  "version": "0.2.12",
   "description": "Nuxt.js module for Segment Analytics.js",
   "license": "MIT",
   "contributors": [
@@ -28,7 +28,8 @@
     "lib"
   ],
   "dependencies": {
-    "@dansmaculotte/vue-segment": "^0.2.9"
+    "@dansmaculotte/vue-segment": "^0.2.9",
+    "isbot": "^3.0.10"
   },
   "devDependencies": {
     "@babel/core": "latest",
